@@ -1,0 +1,2 @@
+﻿  WindowsProject1.cpp
+C:\Users\Admin\source\repos\WindowsProject1\WindowsProject1\WindowsProject1.cpp(1,10): error C1083: Не удается открыть файл включение: SFML/Graphics.hpp: No such file or directory,
