@@ -1,0 +1,19 @@
+﻿  Project1.cpp
+C:\Users\Admin\source\repos\Project1\Project1\Project1.cpp(1,4): error C2014: команда препроцессора не должна начинаться с пробела
+C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.41.34120\include\sal.h(2361,1): error C2144: синтаксическая ошибка: перед "int" требуется ";"
+  (компиляция исходного файла "Project1.cpp")
+  
+C:\Users\Admin\source\repos\Project1\Project1\Project1.cpp(1,1): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\Admin\source\repos\Project1\Project1\Project1.cpp(7,12): error C2065: LC_ALL: необъявленный идентификатор
+C:\Users\Admin\source\repos\Project1\Project1\Project1.cpp(7,2): error C3861: setlocale: идентификатор не найден
+C:\Users\Admin\source\repos\Project1\Project1\Project1.cpp(10,2): error C2065: cout: необъявленный идентификатор
+C:\Users\Admin\source\repos\Project1\Project1\Project1.cpp(11,2): error C2065: cin: необъявленный идентификатор
+C:\Users\Admin\source\repos\Project1\Project1\Project1.cpp(12,2): error C2065: cout: необъявленный идентификатор
+C:\Users\Admin\source\repos\Project1\Project1\Project1.cpp(13,2): error C2065: cin: необъявленный идентификатор
+C:\Users\Admin\source\repos\Project1\Project1\Project1.cpp(18,2): error C2065: cout: необъявленный идентификатор
+C:\Users\Admin\source\repos\Project1\Project1\Project1.cpp(18,25): error C2065: endl: необъявленный идентификатор
+C:\Users\Admin\source\repos\Project1\Project1\Project1.cpp(19,2): error C2065: cout: необъявленный идентификатор
+C:\Users\Admin\source\repos\Project1\Project1\Project1.cpp(19,25): error C2065: endl: необъявленный идентификатор
+C:\Users\Admin\source\repos\Project1\Project1\Project1.cpp(21,12): error C3861: max: идентификатор не найден
+C:\Users\Admin\source\repos\Project1\Project1\Project1.cpp(23,2): error C2065: cout: необъявленный идентификатор
+C:\Users\Admin\source\repos\Project1\Project1\Project1.cpp(23,25): error C2065: endl: необъявленный идентификатор
